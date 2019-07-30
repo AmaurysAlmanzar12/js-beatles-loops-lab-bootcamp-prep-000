@@ -1,5 +1,5 @@
 // add solution here
 function theBeatlesPlay (musicians, instruments){
-  return (musicians)
-  return (instruments)
+  return (musicians, instruments)
+
 }
